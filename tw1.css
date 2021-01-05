@@ -1,0 +1,111 @@
+body{
+  margin: 0pt;
+}
+.head{
+  background-image: url("https://traversymedia.com/downloads/assets/beachshowcase.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;  
+  background-position: center;
+  box-sizing: border-box;
+  border: none;
+}
+.headline{
+  color: #926239;
+  font-size: 50px;
+  line-height: 1.2em;
+  text-align: center;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 210px;
+  margin: 0 auto;
+}
+.headtext{
+  font-size: 20px;
+  text-align: center;
+  color: #926239;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 5px 0px 0px 0px;
+}
+.btn{
+  display: block;
+  color: #926239;
+  background-color: transparent;
+  font-size: 18px;
+  border: 1px solid #926239;
+  border-radius: 10%;
+  padding: 10px 20px;
+  margin: 0  auto;
+  margin-top: 20px; 
+}
+.ref{
+  color: #926239;
+}
+.sect1{
+  background-color: #926239;
+  width: 100%;
+  padding: 20px;
+  margin-top: 0px;
+}
+.txt1{
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: center;
+}
+.sect2{
+  background-color: #f4f4f4;
+  width: 100%;
+  padding: 20px;
+  margin-top: 0px;
+}
+.txt2{
+  color: #926239;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  font-size: 17px;
+  line-height: 1.6;
+  text-align: center;
+}
+.sect3{
+  display: inline-block;
+  font-size: 17px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #926239;
+  padding: 20px;
+  width: max-content;
+  max-width: 350px;
+  min-width: 10px;
+}
+.sect4{
+  display: inline-block;
+  color: #926239;
+  font-size: 17px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
+  max-width: 350px;
+  min-width: 10px;
+}
+.sect5{
+  display: inline-block;
+  font-size: 17px;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #926239;
+  padding: 20px;
+  max-width: 350px;
+  min-width: 10px;
+}
+.section{
+  display: block;
+  width: max-content;
+  height: 20vh;
+  
+}
