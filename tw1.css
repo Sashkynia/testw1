@@ -41,6 +41,7 @@ body{
 }
 .ref{
   color: #926239;
+  text-decoration: none;
 }
 .sect1{
   background-color: #926239;
@@ -79,19 +80,19 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: #926239;
   padding: 20px;
-  width: max-content;
-  max-width: 350px;
-  min-width: 10px;
+  box-sizing: border-box;
+  width: 33.333%;
 }
 .sect4{
+  box-sizing: border-box;
+  width: 33.333%;
   display: inline-block;
   color: #926239;
   font-size: 17px;
   font-family: Arial, Helvetica, sans-serif;
   background-color: #f9f9f9;
   padding: 20px;
-  max-width: 350px;
-  min-width: 10px;
+  
 }
 .sect5{
   display: inline-block;
@@ -100,12 +101,6 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: #926239;
   padding: 20px;
-  max-width: 350px;
-  min-width: 10px;
-}
-.section{
-  display: block;
-  width: max-content;
-  height: 20vh;
-  
+  box-sizing: border-box;
+  width: 33.3333%;
 }
